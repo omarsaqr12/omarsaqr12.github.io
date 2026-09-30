@@ -2,7 +2,7 @@
 
 A buildless, responsive portfolio for **https://omarsaqr12.github.io/**.
 
-The page contains selected engineering projects, publications, education, Microsoft experience, contact links, and a small synthetic I/Q constellation experiment. All core content is static HTML and remains readable without JavaScript.
+The page contains 14 selected engineering projects, seven published/accepted papers, a Student Research Competition record, education and recognition, Microsoft and research experience, contact links, and a small synthetic I/Q constellation experiment. All core content is static HTML and remains readable without JavaScript.
 
 ## Publish on GitHub Pages
 
