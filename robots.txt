@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://omarsaqr12.github.io/sitemap.xml

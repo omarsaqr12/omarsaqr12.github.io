@@ -1,0 +1,9 @@
+{
+  "name": "omar-saqr-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Buildless personal portfolio for GitHub Pages",
+  "scripts": {
+    "dev": "node scripts/dev.mjs"
+  }
+}
